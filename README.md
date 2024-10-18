@@ -6,7 +6,7 @@ Golpo is an interactive chat-app where you can chat with signed users and friend
 
 In the project directory, you can run the application:
 
-## Run Client
+### Run Client
 
 cd->client
 
